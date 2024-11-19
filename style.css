@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+  }
+  
+  .scoreBoard {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .scoreBoard h3 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  .scoreBoard h1 {
+    font-size: 2.5rem;
+    color: #ff6f61;
+    margin: 0;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(8, 60px);
+    grid-template-rows: repeat(8, 60px);
+    gap: 2px;
+  }
+  
+  .grid div {
+    width: 60px;
+    height: 60px;
+    background-color: lightgray;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .grid div img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .grid div:hover {
+    transform: scale(1.1);
+  }
+  
