@@ -5,7 +5,7 @@ A simple and interactive Candy Crush game built with **HTML**, **CSS**, and **Ja
 ![Game Screenshot](./assets/game.png)  
 *Screenshot of the game in action.*
 
-
+---
 
 ## Features
 - Dynamic grid gameplay.
@@ -22,5 +22,21 @@ A simple and interactive Candy Crush game built with **HTML**, **CSS**, and **Ja
 4. Continue playing for a higher score!
 
 ---
+
+Future Enhancements
+Add more levels with increasing difficulty.
+Introduce special candies with unique effects.
+Implement a timer for more challenging gameplay.
+Contributing
+Feel free to fork the repository, submit issues, or create pull requests for any improvements or bug fixes.
+
+---
+
+License
+This project is licensed under the MIT License.
+
+Enjoy the game! 🎮
+
+
 
 
