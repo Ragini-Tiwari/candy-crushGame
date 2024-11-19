@@ -2,7 +2,7 @@
 
 A simple and interactive Candy Crush game built with **HTML**, **CSS**, and **JavaScript**. Swap candies to match three or more of the same type, score points, and enjoy the fun animations!
 
-![Game Screenshot](./assets/game-screenshot.png)  
+![Game Screenshot](./assets/game.png)  
 *Screenshot of the game in action.*
 
 
