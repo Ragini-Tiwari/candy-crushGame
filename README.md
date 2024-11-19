@@ -23,10 +23,13 @@ A simple and interactive Candy Crush game built with **HTML**, **CSS**, and **Ja
 
 ---
 
-Future Enhancements
-Add more levels with increasing difficulty.
-Introduce special candies with unique effects.
-Implement a timer for more challenging gameplay.
+## Future Enhancements
+1. Add more levels with increasing difficulty.
+2. Introduce special candies with unique effects.
+3. Implement a timer for more challenging gameplay.
+
+---
+
 Contributing
 Feel free to fork the repository, submit issues, or create pull requests for any improvements or bug fixes.
 
@@ -34,6 +37,8 @@ Feel free to fork the repository, submit issues, or create pull requests for any
 
 License
 This project is licensed under the MIT License.
+
+---
 
 Enjoy the game! 🎮
 
